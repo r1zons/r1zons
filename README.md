@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sergey</h1>
+<h1 align="center">Hi 👋, I'm Serezha</h1>
 
 - 🔭 I’m currently working on ***secret project* =D**
 
