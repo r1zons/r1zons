@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergey</h1>
+
 - 🔭 I’m currently working on ***secret project* =D**
 
 - 🌱 I’m currently learning **Algorithms, math and SwiftUI**
